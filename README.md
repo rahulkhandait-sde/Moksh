@@ -9,7 +9,7 @@
 <a href="https://community.vaunt.dev/board/akshitagupta15june/repository/Moksh"><img src="https://api.vaunt.dev/v1/github/entities/akshitagupta15june/repositories/Moksh/badges/community"></a>
 <p align="center">
  <img src="Images/rejuvenate.png" width="150"/>
- <img src="Images/moksh.jpeg" width="150"/> 
+ <img src="Images/moksh.jpeg" width="150"/>
  <img src="Images/rejuvenate.png" width="150"/>
 </p>
 
@@ -25,7 +25,7 @@
 ## Watch this to know about Moksh (Demo Video)
 
 <h5>Demo Video on Youtube - <a href="https://youtu.be/wfdF___qNME">Link</a><h5>
-		
+
 ## 🐦 Latest Tweet
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ExperienceMoksh)
@@ -36,7 +36,7 @@
 
 <p align="center">
   <img src="Images/anxiety.png" width="150"/>
-  <img src="Images/ANGRY.png" width="150"/> 
+  <img src="Images/ANGRY.png" width="150"/>
   <img src="Images/compare.png" width="150"/>
   <img src="Images/fear.png" width="150"/>
   <img src="Images/ego.png" width="150"/>
@@ -197,7 +197,7 @@ git push origin fix-issue-<ISSUE-NUMBER>
 				<img src="https://avatars0.githubusercontent.com/u/57909583?v=4" width="100px" alt="" />
 				<br /> <sub><b>akshitagupta15june</b></sub>
 			</a>
-			<br /> <a href="https://github.com/akshitagupta15june"> 
+			<br /> <a href="https://github.com/akshitagupta15june">
 		👩‍💻Admin
 	    </a>
 		</td>
