@@ -28,9 +28,7 @@
 		
 ## 🐦 Latest Tweet
 
-
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ExperienceMoksh)
-
 
 ## About The Project 💫
 
@@ -51,14 +49,15 @@ There are numerous mental problems affecting people in modern society, including
 Moksh is a spiritual productivity tool designed for individuals who want to unlock their potential and achieve true balance in life. Our customized spiritual features help you take control of your work, focus on what truly matters, and rejuvenate your mind and spirit. By reading Bhagavad Gita, we become soul conscious and gain the strength to fight life's challenges. With Moksh, you can overcome the mental problems that arise from our body consciousness and find true happiness.
 
 ### ✨ Features
-* Augmented Reality Bhagavad Gita Meditation 🧘‍♂️
-* Connect with ISKCON spiritual events near you 🔗
-* Interactive Gita stories for children and students ✍️
-* Pomodoro feature(with timer) along with reading Bhagavad Gita shlokas in the breaks⌛
-* Stress buster spiritual games 🎮
-* Bhagavad Gita quiz 🤔
-* Random Bhagavad Gita shlok generator with meaning, along with sharing to twitter functionality 🌟
-* Rejuvenation section for watching inspirational videos by spiritual leaders ☮️
+
+- Augmented Reality Bhagavad Gita Meditation 🧘‍♂️
+- Connect with ISKCON spiritual events near you 🔗
+- Interactive Gita stories for children and students ✍️
+- Pomodoro feature(with timer) along with reading Bhagavad Gita shlokas in the breaks⌛
+- Stress buster spiritual games 🎮
+- Bhagavad Gita quiz 🤔
+- Random Bhagavad Gita shlok generator with meaning, along with sharing to twitter functionality 🌟
+- Rejuvenation section for watching inspirational videos by spiritual leaders ☮️
 
 ## Demo
 
@@ -73,6 +72,7 @@ If there are any doubts, you can ask here on Discord. <br>Join your Discord serv
 ## Built With
 
 👉 Front-End Stacks:
+
 <p align="left">
   <a href="](https://html.com">
     <img src="https://skillicons.dev/icons?i=html" />
@@ -97,6 +97,7 @@ If there are any doubts, you can ask here on Discord. <br>Join your Discord serv
 - [Google Maps API](https://developers.google.com/maps)
 
 ## TECH STACK USED
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js" />
@@ -111,7 +112,6 @@ If there are any doubts, you can ask here on Discord. <br>Join your Discord serv
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
-
 
 ### Installation
 
@@ -148,33 +148,46 @@ See the [open issues](https://github.com/akshitagupta15june/Moksh/issues) for a 
 ```sh
 git clone https://github.com/<your_github_username>/Moksh.git
 ```
+
 3. Now go ahead and create a new branch and move to the branch
+
 ```sh
 git checkout -b fix-issue-<ISSUE-NUMBER>
 ```
+
 4. After you have added your changes, follow the following command chain
    Check the changed files
+
 ```sh
 git status -s
 ```
 
 5. Add all the files to the staging area
+
 ```sh
 git add .
 ```
- or
+
+or
+
 ```sh
 git add <file_name1> <file_name2>
 ```
+
 6. Commit your changes
+
 ```sh
 git commit -m "<EXPLAIN-YOUR_CHANGES>"
 ```
+
 7. Push your changes
+
 ```sh
 git push origin fix-issue-<ISSUE-NUMBER>
 ```
-8. Open a Pull Request 
+
+8. Open a Pull Request
+
 ## 👩‍💻 Project Admin
 
 <table>
@@ -192,6 +205,7 @@ git push origin fix-issue-<ISSUE-NUMBER>
 </table>
 
 ## 👨‍💻👥 Moderators
+
 <table>
     <tbody>
         <tr>
@@ -221,7 +235,7 @@ git push origin fix-issue-<ISSUE-NUMBER>
 ## Thanks to all Moksh Contributors 💪
 
 Thanks a lot for spending your time helping Moksh grow. Thanks a lot! Keep rocking 🍻
-	 
+
 <p>
   <img src="https://api.vaunt.dev/v1/github/entities/akshitagupta15june/repositories/Moksh/contributors?format=svg&limit=54" width="600" height"250" />
 </p>
@@ -247,16 +261,15 @@ Please ensure you follow the [Code of Conduct](https://github.com/akshitagupta15
 
 [Akshita Gupta](https://github.com/akshitagupta15june)
 
-###  Show some ❤️ by starring this awesome repository! <img src="https://imgur.com/o7ncZFp.jpg" height=35px width=35px>
-
+### Show some ❤️ by starring this awesome repository! <img src="https://imgur.com/o7ncZFp.jpg" height=35px width=35px>
 
 </div>
 
 ### Available Awards
 
-| Name | Icon | Description |
-| ---- | ---- | ----------- |
-| Pull Request Hero | <img src="https://raw.githubusercontent.com/akshitagupta15june/Moksh/main/.vaunt/ach1.jpeg" width="150" /> | Recognized for achieving the highest number of pull requests in Moksh Repo! |
-| Every Bit Counts | <img src="https://raw.githubusercontent.com/akshitagupta15june/Moksh/main/.vaunt/ach2.jpeg" width="150" /> | No commit is to small! |
-| Issue Hunter | <img src="https://raw.githubusercontent.com/akshitagupta15june/Moksh/main/.vaunt/ach3.jpeg" width="150" /> | Keep up the fantastic work that makes our projects better |
-| Community Guardian | <img src="https://raw.githubusercontent.com/akshitagupta15june/Moksh/main/.vaunt/ach4.jpeg" width="150" /> | You're the best moderator, safeguarding our vibrant and friendly atmosphere! | 
+| Name               | Icon                                                                                                       | Description                                                                  |
+| ------------------ | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Pull Request Hero  | <img src="https://raw.githubusercontent.com/akshitagupta15june/Moksh/main/.vaunt/ach1.jpeg" width="150" /> | Recognized for achieving the highest number of pull requests in Moksh Repo!  |
+| Every Bit Counts   | <img src="https://raw.githubusercontent.com/akshitagupta15june/Moksh/main/.vaunt/ach2.jpeg" width="150" /> | No commit is to small!                                                       |
+| Issue Hunter       | <img src="https://raw.githubusercontent.com/akshitagupta15june/Moksh/main/.vaunt/ach3.jpeg" width="150" /> | Keep up the fantastic work that makes our projects better                    |
+| Community Guardian | <img src="https://raw.githubusercontent.com/akshitagupta15june/Moksh/main/.vaunt/ach4.jpeg" width="150" /> | You're the best moderator, safeguarding our vibrant and friendly atmosphere! |
